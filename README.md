@@ -1,5 +1,13 @@
 # HerGePred
 
+
+## Tested environment
++ Python >= 3.5
++ gensim=3.8
++ network>=2.3
++ numpy>=1.17
+
+
 ## Basic Usage
 ### 1. Generate embedding vectors of nodes in heterogeneous network
 + Step (1): run n2v/e2v_walks.py

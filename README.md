@@ -1,8 +1,5 @@
 # HerGePred
 
-K. Yang, R. Wang, G. Liu, Z. Shu, N. Wang, R. Zhang, J. Yu, J. Chen, X. Li, X. Zhou\*. HerGePred: Heterogeneous Network Embedding Representation for Disease Gene Prediction, IEEE Journal of Biomedical and Health Informatics, 2018, 23(4): 1805-1815.
-
-
 ## Basic Usage
 ### 1. Generate embedding vectors of nodes in heterogeneous network
 + Step (1): run n2v/e2v_walks.py
@@ -42,3 +39,4 @@ If you find HerGePred useful for your research, please consider citing the follo
    type = {Journal Article}
 }
 ```
+K. Yang, R. Wang, G. Liu, Z. Shu, N. Wang, R. Zhang, J. Yu, J. Chen, X. Li, X. Zhou\*. HerGePred: Heterogeneous Network Embedding Representation for Disease Gene Prediction, IEEE Journal of Biomedical and Health Informatics, 2018, 23(4): 1805-1815.

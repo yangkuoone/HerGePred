@@ -1,5 +1,6 @@
 # HerGePred
 
+We develop a heterogeneous disease-gene-related network (HDGN) embedding representation framework for disease gene prediction (called HerGePred). Based on this framework, a low-dimensional vector representation (LVR) of the nodes in the HDGN can be obtained. Then, we propose two specific algorithms, namely, an LVR-based similarity prediction and a random walk with restart on a reconstructed heterogeneous disease-gene network (RW-RDGN), to predict disease genes with high performance.
 
 ## Tested environment
 + Python >= 3.5
